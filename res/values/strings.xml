@@ -19,9 +19,12 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Aegis</string>
     <string name="title_inactive_apps">Standby apps</string>
-    <string name="title_inactive_app_dialog">App standby buckets</string>
+    <string name="title_activity_guide">Guide</string>
     <string name="menu_guide">Guide</string>
     <string name="menu_preferences">Preferences</string>
+    <string name="activity_not_found">MKCenter isn\'t installed or has been disabled</string>
+
+    <string name="title_inactive_app_dialog">App standby buckets</string>
     <string name="standby_bucket_exempted">Exempted</string>
     <string name="standby_bucket_active">Active</string>
     <string name="standby_bucket_working_set">Working set</string>
@@ -30,8 +33,8 @@
     <string name="standby_bucket_never">Never</string>
     <string name="standby_bucket_limit_title">Unlock Unlimited Version</string>
     <string name="standby_bucket_limit_summary">Donors can only set up %1$d apps, donate %2$d CNY to unlock the unlimited version.</string>
+
     <string name="title_activity_preferences">Preferences</string>
-    <string name="title_activity_guide">Guide</string>
     <string name="title_standby_strategy">Standby strategy</string>
     <string name="strategy_standby_with_force_stop">Standby, then force-stop</string>
     <string name="strategy_standby_only">Only standby, no force-stop</string>
