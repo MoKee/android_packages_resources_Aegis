@@ -22,7 +22,6 @@
     <string name="title_inactive_app_dialog">App standby buckets</string>
     <string name="menu_guide">Guide</string>
     <string name="menu_preferences">Preferences</string>
-    <string name="action_donation">Donation</string>
     <string name="standby_bucket_exempted">Exempted</string>
     <string name="standby_bucket_active">Active</string>
     <string name="standby_bucket_working_set">Working set</string>
@@ -34,9 +33,9 @@
     <string name="title_activity_preferences">Preferences</string>
     <string name="title_activity_guide">Guide</string>
     <string name="title_standby_strategy">Standby strategy</string>
-    <string name="strategy_standby_with_force_stop">Standby, then force-stop. </string>
-    <string name="strategy_standby_only">Only standby, no force-stop. </string>
-    <string name="strategy_force_stop_only">Only force-stop, no standby. </string>
+    <string name="strategy_standby_with_force_stop">Standby, then force-stop</string>
+    <string name="strategy_standby_only">Only standby, no force-stop</string>
+    <string name="strategy_force_stop_only">Only force-stop, no standby</string>
     <string name="title_strategy_bucket">Strategy bucket</string>
     <string name="strategy_bucket_frequent_with_rare">Frequent with rare</string>
     <string name="strategy_bucket_rare_only">Rare only</string>
