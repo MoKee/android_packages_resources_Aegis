@@ -32,7 +32,7 @@
     <string name="standby_bucket_rare">Rare</string>
     <string name="standby_bucket_never">Never</string>
     <string name="standby_bucket_limit_title">Unlock Unlimited Version</string>
-    <string name="standby_bucket_limit_summary">Donors can only set up %1$d apps, donate %2$d CNY to unlock the unlimited version.</string>
+    <string name="standby_bucket_limit_summary">Non-donors can only set up %1$d apps, donate %2$d CNY to unlock the unlimited version.</string>
 
     <string name="title_activity_preferences">Preferences</string>
     <string name="title_standby_strategy">Standby strategy</string>
