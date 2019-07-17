@@ -31,6 +31,7 @@
     <string name="standby_bucket_frequent">Frequent</string>
     <string name="standby_bucket_rare">Rare</string>
     <string name="standby_bucket_never">Never</string>
+    <string name="standby_bucket_dynamic">Dynamically assigns</string>
     <string name="standby_bucket_limit_title">Unlock Unlimited Version</string>
     <string name="standby_bucket_limit_summary">Non-donors can only set up %1$d apps, donate %2$d CNY to unlock the unlimited version.</string>
 
