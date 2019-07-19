@@ -43,4 +43,6 @@
     <string name="title_strategy_bucket">Strategy bucket</string>
     <string name="strategy_bucket_frequent_with_rare">Frequent with rare</string>
     <string name="strategy_bucket_rare_only">Rare only</string>
+    <string name="title_prevent_chain_launch">Prevent chain launch</string>
+    <string name="summary_prevent_chain_launch">Avoid being waked up by other apps</string>
 </resources>
