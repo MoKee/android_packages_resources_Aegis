@@ -45,4 +45,9 @@
     <string name="strategy_bucket_rare_only">Rare only</string>
     <string name="title_prevent_chain_launch">Prevent chain launch</string>
     <string name="summary_prevent_chain_launch">Avoid being waked up by other apps</string>
+    
+    <string name="title_intro_1">Welcome to Aegis</string>
+    <string name="description_intro_1">Aegis can limit the Apps’ behavior and improving the battery life of your device.</string>
+    <string name="title_intro_2">Setting app standby bucket</string>
+    <string name="description_intro_2">Aegis will limit the behavior on the apps of each group in specific ways. You can set standby groups for apps according to your own usage habits.</string>
 </resources>
