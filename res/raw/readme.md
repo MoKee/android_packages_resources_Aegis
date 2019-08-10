@@ -1,7 +1,3 @@
-# Introduction
-
-**Aegis** can effectively limit Apps’ behavior with the new device power management API introduced in Android 9.0 (API level 28). By setting Apps’ the standby mode group, you can easily restrict the Apps’ access to device resources such as CPU or battery, and help to ensure that system resources are given to correct Apps that need them the most.
-
 ## Mechanism
 
 On Android 9.0, the system dynamically categorizes each App into a standby group based on the App's recent usage (time and frequency). For example, when an App is opened, it will be categorized into the "Active" group immediately. If users don't open the App for a long time, it will be categorized into the "Rare" group automatically.
@@ -9,8 +5,6 @@ On Android 9.0, the system dynamically categorizes each App into a standby group
 During the interval when users are not using the App, some Apps may still stay in a higher priority group instead of the "Rare" group. As a result, this App will still be allocated more resources such as CPU or battery usage (those ill-designed Apps tend to keep themselves in a higher priority group for a long time without user's permission). 
 
 And that's where **Aegis** comes into effect. When your device starts to stand by, **Aegis** will immediately re-categorize these Apps to the corresponding usage group previously set by users, and also force those less-frequently used Apps to start stand by, thus restricting Apps’ behavior and improving the battery life of your device.
-
-**Aegis** serves as an enhanced edition of "Standby apps"(in Settings - System - Developer options). The difference is that the Android native setting is one-time setting. So, when the Apps change the group in the way mentioned above, users' setting won't apply any more, whereas the effect of **Aegis** is permanent.
 
 # Instructions
 
@@ -49,10 +43,6 @@ And that's where **Aegis** comes into effect. When your device starts to stand b
 > An App is in the rare bucket if it is not often used. For example, a hotel App that the user only runs while they're staying at that hotel might be in the rare bucket.
 >
 > If an App is in the rare bucket, the system imposes strict restrictions on its ability to run jobs, trigger alarms, and receive high-priority FCM messages. The system also limits the App's ability to connect to the Internet.
-
-**Never**
-
-> Apps that have been installed but never run are assigned to the never bucket. The system imposes severe restrictions on these Apps.
 
 **Dynamic allocation**
 
