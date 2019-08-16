@@ -19,18 +19,21 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">宙斯盾</string>
     <string name="title_inactive_apps">待機應用程式</string>
-    <string name="title_inactive_app_dialog">應用程式待機群組</string>
+    <string name="title_activity_guide">指南</string>
     <string name="menu_guide">指南</string>
     <string name="menu_preferences">偏好設定</string>
+    <string name="activity_not_found">MKCenter 沒有安裝或已經禁用</string>
+    <string name="title_inactive_app_dialog">應用程式待機群組</string>
     <string name="standby_bucket_exempted">信任</string>
     <string name="standby_bucket_active">最近執行</string>
     <string name="standby_bucket_working_set">頻繁使用</string>
     <string name="standby_bucket_frequent">定期使用</string>
     <string name="standby_bucket_rare">很少使用</string>
-    <string name="standby_bucket_never">永不</string>
+    <string name="standby_bucket_never">從未使用</string>
+    <string name="standby_bucket_dynamic">動態分配</string>
     <string name="standby_bucket_limit_title">解鎖進階版</string>
+    <string name="standby_bucket_limit_summary">非捐贈使用者只能設定 %1$d 的應用程式，捐贈 %2$d 人民幣解鎖進階版本。</string>
     <string name="title_activity_preferences">偏好設定</string>
-    <string name="title_activity_guide">指南</string>
     <string name="title_standby_strategy">待機策略</string>
     <string name="strategy_standby_with_force_stop">待機後強制停止</string>
     <string name="strategy_standby_only">僅待機，不強制停止</string>
@@ -38,4 +41,10 @@
     <string name="title_strategy_bucket">策略群組</string>
     <string name="strategy_bucket_frequent_with_rare">定期使用與很少使用</string>
     <string name="strategy_bucket_rare_only">僅從未使用</string>
+    <string name="title_prevent_chain_launch">防止鍊接式啟動</string>
+    <string name="summary_prevent_chain_launch">避免被其他應用程式喚醒</string>
+    <string name="title_intro_1">歡迎使用宙斯盾</string>
+    <string name="description_intro_1">宙斯盾可以限制應用程式的行為，提高裝置的電池壽命。</string>
+    <string name="title_intro_2">設定應用程式待機群組</string>
+    <string name="description_intro_2">宙斯盾將以特定的方式限制每組應用程式的行為。您可以根據自己的使用習慣為應用程式設定待機群組。</string>
 </resources>

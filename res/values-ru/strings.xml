@@ -19,18 +19,21 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Aegis</string>
     <string name="title_inactive_apps">Приложения в режиме ожидания</string>
-    <string name="title_inactive_app_dialog">Сортировка неактивных приложений</string>
+    <string name="title_activity_guide">Руководство</string>
     <string name="menu_guide">Руководство</string>
     <string name="menu_preferences">Настройки</string>
+    <string name="activity_not_found">MKCenter не установлен или был отключен</string>
+    <string name="title_inactive_app_dialog">Сортировка неактивных приложений</string>
     <string name="standby_bucket_exempted">Исключения</string>
     <string name="standby_bucket_active">Активные</string>
     <string name="standby_bucket_working_set">Рабочий набор</string>
     <string name="standby_bucket_frequent">Частые</string>
     <string name="standby_bucket_rare">Редкие</string>
     <string name="standby_bucket_never">Не отключать</string>
+    <string name="standby_bucket_dynamic">Динамически назначает</string>
     <string name="standby_bucket_limit_title">Разблокировать полную версию</string>
+    <string name="standby_bucket_limit_summary">Не-доноры могут настроить только %1$d приложений, пожертвуйте %2$d юаней, чтобы разблокировать неограниченную версию.</string>
     <string name="title_activity_preferences">Настройки</string>
-    <string name="title_activity_guide">Руководство</string>
     <string name="title_standby_strategy">Стратегия неактивных приложений</string>
     <string name="strategy_standby_with_force_stop">Ожидание, затем принудительная остановка</string>
     <string name="strategy_standby_only">Только ожидание, без принудительной остановки</string>
@@ -38,4 +41,10 @@
     <string name="title_strategy_bucket">Стратегия корзины</string>
     <string name="strategy_bucket_frequent_with_rare">Часто используемые с редкими</string>
     <string name="strategy_bucket_rare_only">Только редкие</string>
+    <string name="title_prevent_chain_launch">Предотвратить цепной запуск</string>
+    <string name="summary_prevent_chain_launch">Избегать пробуждения другими приложениями</string>
+    <string name="title_intro_1">Добро пожаловать в Aegis</string>
+    <string name="description_intro_1">Aegis может ограничить поведение приложений и увеличить время автономной работы вашего устройства.</string>
+    <string name="title_intro_2">Настройка режима ожидания приложения</string>
+    <string name="description_intro_2">Aegis будет ограничивать поведение приложений каждой группы определенными способами. Вы можете установить резервные группы для приложений в соответствии с вашими привычками.</string>
 </resources>
