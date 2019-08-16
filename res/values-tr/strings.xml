@@ -19,18 +19,21 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Aegis</string>
     <string name="title_inactive_apps">Bekleme uygulamaları</string>
-    <string name="title_inactive_app_dialog">Uygulama bekleme kovaları</string>
+    <string name="title_activity_guide">Kılavuz</string>
     <string name="menu_guide">Kılavuz</string>
     <string name="menu_preferences">Tercihler</string>
+    <string name="activity_not_found">MKCenter kurulmamış veya devre dışı bırakılmış</string>
+    <string name="title_inactive_app_dialog">Uygulama bekleme kovaları</string>
     <string name="standby_bucket_exempted">Muaf</string>
     <string name="standby_bucket_active">Etkin</string>
     <string name="standby_bucket_working_set">Çalışma seti</string>
     <string name="standby_bucket_frequent">Sık</string>
     <string name="standby_bucket_rare">Nadir</string>
     <string name="standby_bucket_never">Asla</string>
+    <string name="standby_bucket_dynamic">Dinamik olarak atar</string>
     <string name="standby_bucket_limit_title">Sınırsız sürümün kilidini aç</string>
+    <string name="standby_bucket_limit_summary">Bağışçı olmayanlar yalnızca %1$d uygulama ayarlayabilir, sınırsız sürümün kilidini açmak için %2$d CNY bağışta bulunabilir.</string>
     <string name="title_activity_preferences">Tercihler</string>
-    <string name="title_activity_guide">Kılavuz</string>
     <string name="title_standby_strategy">Bekleme stratejisi</string>
     <string name="strategy_standby_with_force_stop">Bekleme, sonra zorla durdur</string>
     <string name="strategy_standby_only">Sadece bekleme, zorla durdurma yok</string>
@@ -38,4 +41,10 @@
     <string name="title_strategy_bucket">Strateji kovası</string>
     <string name="strategy_bucket_frequent_with_rare">Nadir ile sık</string>
     <string name="strategy_bucket_rare_only">Sadece nadir</string>
+    <string name="title_prevent_chain_launch">Zincir başlangıcını önle</string>
+    <string name="summary_prevent_chain_launch">Diğer uygulamalar tarafından uyandırılmaktan kaçının</string>
+    <string name="title_intro_1">Aegis\'e Hoşgeldiniz</string>
+    <string name="description_intro_1">Aegis, Uygulama davranışını sınırlayabilir ve cihazınızın pil ömrünü artırabilir.</string>
+    <string name="title_intro_2">Uygulama bekleme kovasını ayarla</string>
+    <string name="description_intro_2">Aegis, her grubun uygulamalarındaki davranışları belirli şekillerde sınırlayacaktır. Uygulamalar için bekleme gruplarını kendi kullanım alışkanlıklarınıza göre ayarlayabilirsiniz.</string>
 </resources>

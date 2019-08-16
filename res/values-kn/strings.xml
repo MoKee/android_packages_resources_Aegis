@@ -17,9 +17,27 @@
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ಏಜಿಸ್</string>
+    <string name="title_inactive_apps">ನಿಷ್ಕ್ರಿಯ ತಂತ್ರಾಂಶಗಳು</string>
+    <string name="title_activity_guide">ಮಾರ್ಗದರ್ಶಿ</string>
     <string name="menu_guide">ಮಾರ್ಗದರ್ಶಿ</string>
     <string name="menu_preferences">ಆದ್ಯತೆಗಳು</string>
-    <string name="standby_bucket_never">ಎಂದಿಗೂ</string>
+    <string name="title_inactive_app_dialog">ನಿಷ್ಕ್ರಿಯ ತಂತ್ರಾಂಶ ಬಕೆಟ್‌ ಗಳು</string>
+    <string name="standby_bucket_exempted">ಹೊರತು ಪಡಿಸಿದೆ</string>
+    <string name="standby_bucket_active">ಸಕ್ರಿಯ</string>
+    <string name="standby_bucket_working_set">ಕಾರ್ಯ ನಿರ್ವಹಣೆಯ ಜೊತೆ</string>
+    <string name="standby_bucket_frequent">ಆಗಾಗ</string>
+    <string name="standby_bucket_rare">ವಿರಳ</string>
+    <string name="standby_bucket_never">ಎಂದಿಗೂ ಇಲ್ಲದ</string>
+    <string name="standby_bucket_limit_title">ಅನಿಯಮಿತ ಆವೃತ್ತಿಯ ಲಾಕ್‌ ತೆಗೆಯಿರಿ</string>
     <string name="title_activity_preferences">ಆದ್ಯತೆಗಳು</string>
-    <string name="title_activity_guide">ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="title_standby_strategy">ನಿಷ್ಕ್ರಿಯ ತಂತ್ರ</string>
+    <string name="strategy_standby_with_force_stop">ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು, ಮತ್ತು ಬಲವಂತವಾಗಿ - ನಿಲ್ಲಿಸು</string>
+    <string name="strategy_standby_only">ಕೇವಲ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸು, ಬಲವಂತವಾಗಿ ನಿಲ್ಲಿಸುವುದು ಬೇಡ</string>
+    <string name="strategy_force_stop_only">ಕೇವಲ ಬಲವಂತವಾಗಿ ನಿಲ್ಲಿಸು, ನಿಷ್ಕ್ರಿಯ ಬೇಡ</string>
+    <string name="title_strategy_bucket">ತಂತ್ರ ಬಕೆಟ್</string>
+    <string name="strategy_bucket_frequent_with_rare">ವಿರಳಗಳೊಂದಿಗೆ ಆಗಾಗ</string>
+    <string name="strategy_bucket_rare_only">ಕೇವಲ ವಿರಳ</string>
+    <string name="title_intro_1">ಎಜಿಸ್‌ ಗೆ ಸುಸ್ವಾಗತ</string>
+    <string name="description_intro_1">ಎಜಿಸ್‌ ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ತಂತ್ರಾಂಶಗಳ ವರ್ತನೆಯನ್ನು ಮಿತಿಯಲ್ಲಿಡಬಹುದು ಮತ್ತು ಬ್ಯಾಟರಿ ಮಟ್ಟವನ್ನು ಸುಧಾರಿಸಬಹುದು.</string>
 </resources>

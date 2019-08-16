@@ -19,9 +19,25 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Aegis</string>
     <string name="title_inactive_apps">تطبيقات الاستعداد</string>
+    <string name="title_activity_guide">الدليل</string>
     <string name="menu_guide">الدليل</string>
     <string name="menu_preferences">التفضيلات</string>
+    <string name="activity_not_found">MKCenter غير مثبت أو تم تعطيله</string>
+    <string name="title_inactive_app_dialog">دلاء تطبيق الإستعداد</string>
+    <string name="standby_bucket_exempted">إعفاء</string>
+    <string name="standby_bucket_active">نشط</string>
+    <string name="standby_bucket_working_set">طقم العمل</string>
+    <string name="standby_bucket_frequent">متكرر</string>
+    <string name="standby_bucket_rare">نادر</string>
     <string name="standby_bucket_never">أبداً</string>
+    <string name="standby_bucket_dynamic">يعين بشكل حيوي</string>
+    <string name="standby_bucket_limit_title">فتح نسخة غير محدودة</string>
     <string name="title_activity_preferences">التفضيلات</string>
-    <string name="title_activity_guide">الدليل</string>
+    <string name="title_standby_strategy">استراتيجية الاستعداد</string>
+    <string name="strategy_standby_with_force_stop">الإستعداد ، ثم الإيقاف بالقوة</string>
+    <string name="strategy_standby_only">الإستعداد فقط ، لا إيقاف بالقوة</string>
+    <string name="strategy_force_stop_only">فقط الإيقاف بالقوة ، لا إستعداد</string>
+    <string name="title_strategy_bucket">دلو الاستراتيجية</string>
+    <string name="strategy_bucket_frequent_with_rare">متكرر مع ندرة</string>
+    <string name="strategy_bucket_rare_only">نادراً فقط</string>
 </resources>

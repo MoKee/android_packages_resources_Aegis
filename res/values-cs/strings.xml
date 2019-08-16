@@ -19,18 +19,21 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Aegis</string>
     <string name="title_inactive_apps">Neaktivní aplikace</string>
-    <string name="title_inactive_app_dialog">Třídění neaktivních aplikací</string>
+    <string name="title_activity_guide">Průvodce</string>
     <string name="menu_guide">Průvodce</string>
     <string name="menu_preferences">Předvolby</string>
+    <string name="activity_not_found">Aplikace MKCenter není nainstalována nebo byla zakázána</string>
+    <string name="title_inactive_app_dialog">Třídění neaktivních aplikací</string>
     <string name="standby_bucket_exempted">Výjimky</string>
     <string name="standby_bucket_active">Aktivní</string>
     <string name="standby_bucket_working_set">Pracovní sada</string>
     <string name="standby_bucket_frequent">Časté</string>
     <string name="standby_bucket_rare">Vzácné</string>
     <string name="standby_bucket_never">Nikdy</string>
+    <string name="standby_bucket_dynamic">Dynamicky přiřadit</string>
     <string name="standby_bucket_limit_title">Odemknout neomezenou verzi</string>
+    <string name="standby_bucket_limit_summary">Uživatelé, kteří nepřispěli, můžou nastavit pouze %1$d aplikací. Darujte %2$d CNY k odemčení neomezené verze.</string>
     <string name="title_activity_preferences">Předvolby</string>
-    <string name="title_activity_guide">Průvodce</string>
     <string name="title_standby_strategy">Strategie neaktivních aplikací</string>
     <string name="strategy_standby_with_force_stop">Neaktivní, tak vynuceně ukončit</string>
     <string name="strategy_standby_only">Pouze čekající, bez vynuceného ukončení</string>
@@ -38,4 +41,10 @@
     <string name="title_strategy_bucket">Strategické skladování</string>
     <string name="strategy_bucket_frequent_with_rare">Časté se vzácnými</string>
     <string name="strategy_bucket_rare_only">Pouze vzácné</string>
+    <string name="title_prevent_chain_launch">Zabránit spuštění řetězce</string>
+    <string name="summary_prevent_chain_launch">Zabránit probuzení jinými aplikacemi</string>
+    <string name="title_intro_1">Vítejte v Aegis</string>
+    <string name="description_intro_1">Aegis může omezit chování aplikací a vylepšit výdrž baterie vašeho zařízení.</string>
+    <string name="title_intro_2">Nastavení bloků aplikací</string>
+    <string name="description_intro_2">Aegis omezí chování aplikacích v každé skupině konkrétním způsobem. Můžete nastavit pohotovostní skupiny pro aplikace podle vašich zvyklostí.</string>
 </resources>

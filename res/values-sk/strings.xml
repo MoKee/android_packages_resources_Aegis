@@ -17,9 +17,17 @@
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Aegis</string>
+    <string name="title_inactive_apps">Aplikácie Stand-by</string>
+    <string name="title_activity_guide">Sprievodca</string>
     <string name="menu_guide">Sprievodca</string>
     <string name="menu_preferences">Nastavenia</string>
+    <string name="activity_not_found">MKCenter nie je naištalované, alebo bolo pozastavené</string>
+    <string name="standby_bucket_active">Aktívny</string>
+    <string name="standby_bucket_working_set">Spracúva sa ...</string>
+    <string name="standby_bucket_frequent">Časté</string>
+    <string name="standby_bucket_rare">Zriedkavé</string>
     <string name="standby_bucket_never">Nikdy</string>
+    <string name="standby_bucket_limit_title">Odomknite neobmedzenú verziu</string>
     <string name="title_activity_preferences">Nastavenia</string>
-    <string name="title_activity_guide">Sprievodca</string>
 </resources>

@@ -17,9 +17,9 @@
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="title_activity_guide">Manual</string>
     <string name="menu_guide">Manual</string>
     <string name="menu_preferences">Ajustes</string>
     <string name="standby_bucket_never">Nunca</string>
     <string name="title_activity_preferences">Ajustes</string>
-    <string name="title_activity_guide">Manual</string>
 </resources>
