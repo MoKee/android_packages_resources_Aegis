@@ -30,9 +30,9 @@
     <string name="standby_bucket_frequent">Частые</string>
     <string name="standby_bucket_rare">Редкие</string>
     <string name="standby_bucket_never">Не отключать</string>
-    <string name="standby_bucket_dynamic">Динамически назначает</string>
+    <string name="standby_bucket_dynamic">Dynamically assigns</string>
     <string name="standby_bucket_limit_title">Разблокировать полную версию</string>
-    <string name="standby_bucket_limit_summary">Не-доноры могут настроить только %1$d приложений, пожертвуйте %2$d юаней, чтобы разблокировать неограниченную версию.</string>
+    <string name="standby_bucket_limit_summary">Non-donors can only set up %1$d apps, donate %2$d CNY to unlock the unlimited version.</string>
     <string name="title_activity_preferences">Настройки</string>
     <string name="title_standby_strategy">Стратегия неактивных приложений</string>
     <string name="strategy_standby_with_force_stop">Ожидание, затем принудительная остановка</string>
@@ -43,8 +43,8 @@
     <string name="strategy_bucket_rare_only">Только редкие</string>
     <string name="title_prevent_chain_launch">Предотвратить цепной запуск</string>
     <string name="summary_prevent_chain_launch">Избегать пробуждения другими приложениями</string>
-    <string name="title_intro_1">Добро пожаловать в Aegis</string>
-    <string name="description_intro_1">Aegis может ограничить поведение приложений и увеличить время автономной работы вашего устройства.</string>
-    <string name="title_intro_2">Настройка режима ожидания приложения</string>
-    <string name="description_intro_2">Aegis будет ограничивать поведение приложений каждой группы определенными способами. Вы можете установить резервные группы для приложений в соответствии с вашими привычками.</string>
+    <string name="title_intro_1">Welcome to Aegis</string>
+    <string name="description_intro_1">Aegis can limit the Apps’ behavior and improving the battery life of your device.</string>
+    <string name="title_intro_2">Setting app standby bucket</string>
+    <string name="description_intro_2">Aegis will limit the behavior on the apps of each group in specific ways. You can set standby groups for apps according to your own usage habits.</string>
 </resources>
