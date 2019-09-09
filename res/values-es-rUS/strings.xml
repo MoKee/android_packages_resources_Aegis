@@ -17,9 +17,22 @@
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="title_inactive_apps">Aplicaciones en espera</string>
     <string name="title_activity_guide">Manual</string>
     <string name="menu_guide">Manual</string>
     <string name="menu_preferences">Ajustes</string>
+    <string name="activity_not_found">MKCenter no está instalado o ha sido desactivado</string>
+    <string name="standby_bucket_exempted">Exención</string>
+    <string name="standby_bucket_active">Activo</string>
+    <string name="standby_bucket_working_set">Grupo de trabajo</string>
+    <string name="standby_bucket_frequent">Frecuente</string>
+    <string name="standby_bucket_rare">Raramente</string>
     <string name="standby_bucket_never">Nunca</string>
+    <string name="standby_bucket_dynamic">Asignaciones dinámicas</string>
+    <string name="standby_bucket_limit_title">Desbloquear versión ilimitada</string>
+    <string name="standby_bucket_limit_summary">Los no donantes sólo pueden configurar %1$d aplicaciones, done %2$d CNY para desbloquear la versión ilimitada.</string>
     <string name="title_activity_preferences">Ajustes</string>
+    <string name="title_intro_1">Bienvenido a Aegis</string>
+    <string name="description_intro_1">Aegis puede limitar el comportamiento de las aplicaciones y mejorar la vida de la batería de su dispositivo.</string>
+    <string name="description_intro_2">Aegis limitará el comportamiento en las aplicaciones de cada grupo de maneras específicas. Puede establecer grupos de espera para aplicaciones de acuerdo con sus propios hábitos de uso.</string>
 </resources>
