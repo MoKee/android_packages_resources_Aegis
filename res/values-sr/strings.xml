@@ -17,9 +17,34 @@
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Aegis</string>
+    <string name="title_inactive_apps">Апликације на чекању</string>
     <string name="title_activity_guide">Водич</string>
     <string name="menu_guide">Водич</string>
     <string name="menu_preferences">Подешавања</string>
+    <string name="activity_not_found">MKCenter није инсталиран или је онемогућен</string>
+    <string name="title_inactive_app_dialog">App standby buckets</string>
+    <string name="standby_bucket_exempted">Изостављено</string>
+    <string name="standby_bucket_active">Активно</string>
+    <string name="standby_bucket_working_set">Сет који је у примени</string>
+    <string name="standby_bucket_frequent">Често коришћено</string>
+    <string name="standby_bucket_rare">Ретко</string>
     <string name="standby_bucket_never">Никад</string>
+    <string name="standby_bucket_dynamic">Динамички примењено</string>
+    <string name="standby_bucket_limit_title">Купи пуну верзију</string>
+    <string name="standby_bucket_limit_summary">Корисници који нису донирали могу да користе само %1$d апликацију, донирајте %2$d CNY да бисте омогућили комплетну верзију.</string>
     <string name="title_activity_preferences">Подешавања</string>
+    <string name="title_standby_strategy">Стратегија спремности</string>
+    <string name="strategy_standby_with_force_stop">Буди спреман и онда нагло стани</string>
+    <string name="strategy_standby_only">Само стани али не на силу</string>
+    <string name="strategy_force_stop_only">Стани на силу, али не буди спреман</string>
+    <string name="title_strategy_bucket">Стратегија корпе</string>
+    <string name="strategy_bucket_frequent_with_rare">Константно и ретко</string>
+    <string name="strategy_bucket_rare_only">Ретко само</string>
+    <string name="title_prevent_chain_launch">Спречи ланчану реакцију</string>
+    <string name="summary_prevent_chain_launch">Избегавајте буђење од других апликација</string>
+    <string name="title_intro_1">Добордошли у Aegis</string>
+    <string name="description_intro_1">Аегис може ограничити понашање апликација и побољшати рад батерије на вашем уређају.</string>
+    <string name="title_intro_2">Подешавање простора за апликације</string>
+    <string name="description_intro_2">Аегис ће на специфичне начине ограничити понашање у апликацијама сваке групе. Можете да подесите групе приправности за апликације у складу са сопственим навикама коришћења.</string>
 </resources>
