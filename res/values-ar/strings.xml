@@ -32,6 +32,7 @@
     <string name="standby_bucket_never">أبداً</string>
     <string name="standby_bucket_dynamic">يعين بشكل حيوي</string>
     <string name="standby_bucket_limit_title">فتح نسخة غير محدودة</string>
+    <string name="standby_bucket_limit_summary">يمكن للجهات المانحة فقط إعداد %1$d تطبيقات ، والتبرع %2$d يوان لفتح الإصدار غير المحدود.</string>
     <string name="title_activity_preferences">التفضيلات</string>
     <string name="title_standby_strategy">استراتيجية الاستعداد</string>
     <string name="strategy_standby_with_force_stop">الإستعداد ، ثم الإيقاف بالقوة</string>
@@ -40,4 +41,10 @@
     <string name="title_strategy_bucket">دلو الاستراتيجية</string>
     <string name="strategy_bucket_frequent_with_rare">متكرر مع ندرة</string>
     <string name="strategy_bucket_rare_only">نادراً فقط</string>
+    <string name="title_prevent_chain_launch">منع إطلاق سلسلة</string>
+    <string name="summary_prevent_chain_launch">تجنب الاستيقاظ من خلال تطبيقات أخرى</string>
+    <string name="title_intro_1">مرحبا بكم في Aegis</string>
+    <string name="description_intro_1">يمكن أن يقيد نظام Aegis سلوك التطبيقات ويحسن عمر بطارية جهازك.</string>
+    <string name="title_intro_2">وضع التطبيق دلو الاستعداد</string>
+    <string name="description_intro_2">ستحدد Aegis السلوك على تطبيقات كل مجموعة بطرق محددة. يمكنك تعيين مجموعات الاستعداد للتطبيقات وفقًا لعادات الاستخدام الخاصة بك.</string>
 </resources>
