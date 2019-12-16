@@ -17,6 +17,7 @@
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Aegis</string>
     <string name="title_inactive_apps">Aplicaciones en espera</string>
     <string name="title_activity_guide">Manual</string>
     <string name="menu_guide">Manual</string>
