@@ -15,14 +15,13 @@
      You should have received a copy of the GNU General Public License
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
-
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Aegis</string>
     <string name="title_inactive_apps">Standby apps</string>
     <string name="title_activity_guide">Guide</string>
     <string name="menu_guide">Guide</string>
     <string name="menu_preferences">Preferences</string>
-    <string name="activity_not_found">MKCenter isn\'t installed or has been disabled</string>
+    <string name="activity_not_found">MoKeeCenter isn\'t installed or has been disabled</string>
 
     <string name="title_inactive_app_dialog">App standby buckets</string>
     <string name="standby_bucket_exempted">Exempted</string>
