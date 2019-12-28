@@ -21,7 +21,6 @@
     <string name="title_activity_guide">Manual</string>
     <string name="menu_guide">Manual</string>
     <string name="menu_preferences">Ajustes</string>
-    <string name="activity_not_found">MKCenter no está instalado o ha sido desactivado</string>
     <string name="standby_bucket_exempted">Exención</string>
     <string name="standby_bucket_active">Activo</string>
     <string name="standby_bucket_working_set">Grupo de trabajo</string>
