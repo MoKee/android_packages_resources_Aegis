@@ -22,7 +22,7 @@
     <string name="title_activity_guide">指南</string>
     <string name="menu_guide">指南</string>
     <string name="menu_preferences">偏好設定</string>
-    <string name="activity_not_found">MKCenter 沒有安裝或已經禁用</string>
+    <string name="activity_not_found">MoKeeCenter 沒有安裝或已經禁用</string>
     <string name="title_inactive_app_dialog">應用程式待機群組</string>
     <string name="standby_bucket_exempted">信任</string>
     <string name="standby_bucket_active">最近執行</string>

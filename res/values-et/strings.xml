@@ -22,7 +22,7 @@
     <string name="title_activity_guide">Juhend</string>
     <string name="menu_guide">Juhend</string>
     <string name="menu_preferences">Eelistused</string>
-    <string name="activity_not_found">MKCenter pole installitud või on keelatud</string>
+    <string name="activity_not_found">MoKeeCenter pole installitud või on keelatud</string>
     <string name="title_inactive_app_dialog">Mitteaktiivsete rakenduste sorteerimine</string>
     <string name="standby_bucket_exempted">Erandid</string>
     <string name="standby_bucket_active">Aktiivne</string>

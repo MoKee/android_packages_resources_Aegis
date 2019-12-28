@@ -22,7 +22,6 @@
     <string name="title_activity_guide">Průvodce</string>
     <string name="menu_guide">Průvodce</string>
     <string name="menu_preferences">Předvolby</string>
-    <string name="activity_not_found">Aplikace MKCenter není nainstalována nebo byla zakázána</string>
     <string name="title_inactive_app_dialog">Třídění neaktivních aplikací</string>
     <string name="standby_bucket_exempted">Výjimky</string>
     <string name="standby_bucket_active">Aktivní</string>
