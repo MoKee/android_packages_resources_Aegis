@@ -22,7 +22,7 @@
     <string name="title_activity_guide">Útmutató</string>
     <string name="menu_guide">Útmutató</string>
     <string name="menu_preferences">Beállítások</string>
-    <string name="activity_not_found">Az MK Központ nincs telepítve, vagy le van tiltva</string>
+    <string name="activity_not_found">Nincs telepítve a MoKee Központ, vagy letiltásra került</string>
     <string name="title_inactive_app_dialog">Várakozó alkalmazások kategóriája</string>
     <string name="standby_bucket_exempted">Kivételek</string>
     <string name="standby_bucket_active">Aktívak</string>

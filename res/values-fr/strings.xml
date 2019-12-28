@@ -22,4 +22,5 @@
     <string name="menu_preferences">Préférences</string>
     <string name="standby_bucket_never">Jamais</string>
     <string name="title_activity_preferences">Préférences</string>
+    <string name="description_intro_2">Aegis limitera le comportement sur les applications de chaque groupe de manière spécifique. Vous pouvez définir des groupes de veille pour les applications en fonction de vos propres habitudes d\'utilisation.</string>
 </resources>
