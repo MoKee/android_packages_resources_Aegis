@@ -22,7 +22,6 @@
     <string name="title_activity_guide">الدليل</string>
     <string name="menu_guide">الدليل</string>
     <string name="menu_preferences">التفضيلات</string>
-    <string name="activity_not_found">MKCenter غير مثبت أو تم تعطيله</string>
     <string name="title_inactive_app_dialog">دلاء تطبيق الإستعداد</string>
     <string name="standby_bucket_exempted">إعفاء</string>
     <string name="standby_bucket_active">نشط</string>

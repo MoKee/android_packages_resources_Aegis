@@ -22,7 +22,7 @@
     <string name="title_activity_guide">教程</string>
     <string name="menu_guide">教程</string>
     <string name="menu_preferences">偏好设置</string>
-    <string name="activity_not_found">未安装魔趣中心或已被禁用</string>
+    <string name="activity_not_found">魔趣中心尚未安装或已被禁用</string>
     <string name="title_inactive_app_dialog">应用待机群组</string>
     <string name="standby_bucket_exempted">信任</string>
     <string name="standby_bucket_active">最近运行</string>

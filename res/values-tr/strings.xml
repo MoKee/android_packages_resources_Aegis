@@ -22,7 +22,6 @@
     <string name="title_activity_guide">Kılavuz</string>
     <string name="menu_guide">Kılavuz</string>
     <string name="menu_preferences">Tercihler</string>
-    <string name="activity_not_found">MKCenter kurulmamış veya devre dışı bırakılmış</string>
     <string name="title_inactive_app_dialog">Uygulama bekleme kovaları</string>
     <string name="standby_bucket_exempted">Muaf</string>
     <string name="standby_bucket_active">Etkin</string>

@@ -22,7 +22,6 @@
     <string name="title_activity_guide">Водич</string>
     <string name="menu_guide">Водич</string>
     <string name="menu_preferences">Подешавања</string>
-    <string name="activity_not_found">MKCenter није инсталиран или је онемогућен</string>
     <string name="title_inactive_app_dialog">App standby buckets</string>
     <string name="standby_bucket_exempted">Изостављено</string>
     <string name="standby_bucket_active">Активно</string>

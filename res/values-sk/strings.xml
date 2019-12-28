@@ -22,7 +22,6 @@
     <string name="title_activity_guide">Sprievodca</string>
     <string name="menu_guide">Sprievodca</string>
     <string name="menu_preferences">Nastavenia</string>
-    <string name="activity_not_found">MKCenter nie je naištalované, alebo bolo pozastavené</string>
     <string name="standby_bucket_active">Aktívny</string>
     <string name="standby_bucket_working_set">Spracúva sa ...</string>
     <string name="standby_bucket_frequent">Časté</string>

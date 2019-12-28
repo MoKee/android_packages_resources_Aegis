@@ -17,5 +17,9 @@
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="title_activity_guide">Hướng dẫn</string>
+    <string name="menu_guide">Hướng dẫn</string>
+    <string name="menu_preferences">Tùy chỉnh</string>
     <string name="standby_bucket_never">Không bao giờ</string>
+    <string name="title_activity_preferences">Tùy chỉnh</string>
 </resources>
