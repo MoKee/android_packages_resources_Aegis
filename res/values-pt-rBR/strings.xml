@@ -22,6 +22,7 @@
     <string name="title_activity_guide">Guia</string>
     <string name="menu_guide">Guia</string>
     <string name="menu_preferences">Preferências</string>
+    <string name="activity_not_found">MoKeeCenter não está instalado ou foi desativado</string>
     <string name="title_inactive_app_dialog">Baldes de aplicativo em espera</string>
     <string name="standby_bucket_exempted">Isentos</string>
     <string name="standby_bucket_active">Ativo</string>

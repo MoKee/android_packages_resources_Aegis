@@ -17,10 +17,34 @@
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Aegis</string>
+    <string name="title_inactive_apps">Applications en veille</string>
     <string name="title_activity_guide">Guide</string>
     <string name="menu_guide">Guide</string>
     <string name="menu_preferences">Préférences</string>
+    <string name="activity_not_found">MoKeeCenter n\'est pas installé ou a été désactivé</string>
+    <string name="title_inactive_app_dialog">Catégorie des applis en veille</string>
+    <string name="standby_bucket_exempted">Dispensé</string>
+    <string name="standby_bucket_active">Actif</string>
+    <string name="standby_bucket_working_set">Catégorie travail</string>
+    <string name="standby_bucket_frequent">Fréquent</string>
+    <string name="standby_bucket_rare">Rare</string>
     <string name="standby_bucket_never">Jamais</string>
+    <string name="standby_bucket_dynamic">Affecte dynamiquement</string>
+    <string name="standby_bucket_limit_title">Déverrouille la version illimité</string>
+    <string name="standby_bucket_limit_summary">Les non-donateurs ne peuvent configurer que %1$d applis, faites un don de %2$d CNY pour débloquer la version illimitée.</string>
     <string name="title_activity_preferences">Préférences</string>
+    <string name="title_standby_strategy">Stratégie de mise en veille</string>
+    <string name="strategy_standby_with_force_stop">Veille, puis arrêt forcé</string>
+    <string name="strategy_standby_only">Veille seule, pas d\'arrêt forcé</string>
+    <string name="strategy_force_stop_only">Arrêt forcé, pas de veille</string>
+    <string name="title_strategy_bucket">Catégorie de stratégie</string>
+    <string name="strategy_bucket_frequent_with_rare">Fréquent avec rare</string>
+    <string name="strategy_bucket_rare_only">Rare seulement</string>
+    <string name="title_prevent_chain_launch">Empêcher le lancement en-chaîne</string>
+    <string name="summary_prevent_chain_launch">Éviter d\'être réveillé par d\'autres applications</string>
+    <string name="title_intro_1">Bienvenus dans Aegis</string>
+    <string name="description_intro_1">Aegis peut limiter le comportement des applications et améliorer la durée de vie de la batterie de votre appareil.</string>
+    <string name="title_intro_2">Réglage de la catégorie de veille des applis</string>
     <string name="description_intro_2">Aegis limitera le comportement sur les applications de chaque groupe de manière spécifique. Vous pouvez définir des groupes de veille pour les applications en fonction de vos propres habitudes d\'utilisation.</string>
 </resources>
