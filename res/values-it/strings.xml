@@ -17,9 +17,33 @@
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Aegis</string>
+    <string name="title_inactive_apps">App in standby</string>
     <string name="title_activity_guide">Guida</string>
     <string name="menu_guide">Guida</string>
     <string name="menu_preferences">Preferenze</string>
+    <string name="title_inactive_app_dialog">App standby buckets</string>
+    <string name="standby_bucket_exempted">Escluso</string>
+    <string name="standby_bucket_active">Attivo</string>
+    <string name="standby_bucket_working_set">Working set</string>
+    <string name="standby_bucket_frequent">Frequente</string>
+    <string name="standby_bucket_rare">Raro</string>
     <string name="standby_bucket_never">Mai</string>
+    <string name="standby_bucket_dynamic">Assegnazioni dinamiche</string>
+    <string name="standby_bucket_limit_title">Sblocca Versione Illimitata</string>
+    <string name="standby_bucket_limit_summary">I non donatori possono solo impostare %1$d app, donare %2$d CNY per sbloccare la versione illimitata.</string>
     <string name="title_activity_preferences">Preferenze</string>
+    <string name="title_standby_strategy">Strategia di standby</string>
+    <string name="strategy_standby_with_force_stop">Standby, poi forza arresto</string>
+    <string name="strategy_standby_only">Solo standby, senza arresto forzato</string>
+    <string name="strategy_force_stop_only">Solo arresto forzato, senza standby</string>
+    <string name="title_strategy_bucket">Strategy bucket</string>
+    <string name="strategy_bucket_frequent_with_rare">Frequente e rara</string>
+    <string name="strategy_bucket_rare_only">Solo rara</string>
+    <string name="title_prevent_chain_launch">Impedisci avvio a catena</string>
+    <string name="summary_prevent_chain_launch">Evita il risveglio da parte di altre app</string>
+    <string name="title_intro_1">Benvenuto in Aegis</string>
+    <string name="description_intro_1">Aegis può limitare il comportamento delle app e migliorare la durata della batteria del tuo dispositivo.</string>
+    <string name="title_intro_2">Impostazione app in standby bucket</string>
+    <string name="description_intro_2">Aegis limiterà il comportamento delle app di ogni gruppo in modi specifici. Puoi impostare i gruppi di standby per le app in base alle tue abitudini di utilizzo.</string>
 </resources>
