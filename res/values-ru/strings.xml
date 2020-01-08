@@ -22,6 +22,7 @@
     <string name="title_activity_guide">Руководство</string>
     <string name="menu_guide">Руководство</string>
     <string name="menu_preferences">Настройки</string>
+    <string name="activity_not_found">Mkcenter не установлен или был отключен</string>
     <string name="title_inactive_app_dialog">Сортировка неактивных приложений</string>
     <string name="standby_bucket_exempted">Исключения</string>
     <string name="standby_bucket_active">Активные</string>
