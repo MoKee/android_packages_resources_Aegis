@@ -29,7 +29,7 @@
     <string name="standby_bucket_working_set">頻繁使用</string>
     <string name="standby_bucket_frequent">定期使用</string>
     <string name="standby_bucket_rare">很少使用</string>
-    <string name="standby_bucket_never">從未使用</string>
+    <string name="standby_bucket_never">永不</string>
     <string name="standby_bucket_dynamic">動態分配</string>
     <string name="standby_bucket_limit_title">解鎖進階版</string>
     <string name="standby_bucket_limit_summary">非捐贈使用者只能設定 %1$d 的應用程式，捐贈 %2$d 人民幣解鎖進階版本。</string>

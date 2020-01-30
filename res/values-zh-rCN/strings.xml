@@ -19,9 +19,9 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">宙斯盾</string>
     <string name="title_inactive_apps">待机应用</string>
-    <string name="title_activity_guide">教程</string>
-    <string name="menu_guide">教程</string>
-    <string name="menu_preferences">偏好设置</string>
+    <string name="title_activity_guide">使用指南</string>
+    <string name="menu_guide">使用指南</string>
+    <string name="menu_preferences">首选项</string>
     <string name="activity_not_found">魔趣中心尚未安装或已被禁用</string>
     <string name="title_inactive_app_dialog">应用待机群组</string>
     <string name="standby_bucket_exempted">信任</string>
@@ -29,11 +29,11 @@
     <string name="standby_bucket_working_set">频繁使用</string>
     <string name="standby_bucket_frequent">定期使用</string>
     <string name="standby_bucket_rare">极少使用</string>
-    <string name="standby_bucket_never">从未使用</string>
+    <string name="standby_bucket_never">永不</string>
     <string name="standby_bucket_dynamic">动态分配</string>
     <string name="standby_bucket_limit_title">解锁高级版</string>
     <string name="standby_bucket_limit_summary">未捐赠用户仅能设置 %1$d 个应用，捐赠 %2$d CNY 解锁高级版。</string>
-    <string name="title_activity_preferences">偏好设置</string>
+    <string name="title_activity_preferences">首选项</string>
     <string name="title_standby_strategy">待机策略</string>
     <string name="strategy_standby_with_force_stop">待机，然后强行停止</string>
     <string name="strategy_standby_only">仅待机，不强行停止</string>
