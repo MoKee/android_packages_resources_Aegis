@@ -29,7 +29,7 @@
     <string name="standby_bucket_working_set">Működő készlet</string>
     <string name="standby_bucket_frequent">Gyakran használt</string>
     <string name="standby_bucket_rare">Ritkán használt</string>
-    <string name="standby_bucket_never">Sosem használt</string>
+    <string name="standby_bucket_never">Soha</string>
     <string name="standby_bucket_dynamic">Dinamikus hozzárendelések</string>
     <string name="standby_bucket_limit_title">A korlátlan verzió feloldása</string>
     <string name="standby_bucket_limit_summary">Akik nem adományoztak, csak %1$d alkalmazást állíthatnak be, további %2$d jüan adományozásával érhetik el a korlátlan verziót.</string>

@@ -28,7 +28,7 @@
     <string name="standby_bucket_working_set">ಕಾರ್ಯ ನಿರ್ವಹಣೆಯ ಜೊತೆ</string>
     <string name="standby_bucket_frequent">ಆಗಾಗ</string>
     <string name="standby_bucket_rare">ವಿರಳ</string>
-    <string name="standby_bucket_never">ಎಂದಿಗೂ ಇಲ್ಲದ</string>
+    <string name="standby_bucket_never">ಎಂದಿಗೂ</string>
     <string name="standby_bucket_limit_title">ಅನಿಯಮಿತ ಆವೃತ್ತಿಯ ಲಾಕ್‌ ತೆಗೆಯಿರಿ</string>
     <string name="title_activity_preferences">ಆದ್ಯತೆಗಳು</string>
     <string name="title_standby_strategy">ನಿಷ್ಕ್ರಿಯ ತಂತ್ರ</string>
