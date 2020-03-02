@@ -21,6 +21,8 @@
     <string name="title_activity_guide">Manual</string>
     <string name="menu_guide">Manual</string>
     <string name="menu_preferences">Ajustes</string>
+    <string name="activity_not_found">MoKeeCenter no está instalado o ha sido desactivado</string>
+    <string name="title_inactive_app_dialog">Cubos en espera de aplicaciones</string>
     <string name="standby_bucket_exempted">Exención</string>
     <string name="standby_bucket_active">Activo</string>
     <string name="standby_bucket_working_set">Grupo de trabajo</string>
@@ -31,7 +33,17 @@
     <string name="standby_bucket_limit_title">Desbloquear versión ilimitada</string>
     <string name="standby_bucket_limit_summary">Los no donantes sólo pueden configurar %1$d aplicaciones, done %2$d CNY para desbloquear la versión ilimitada.</string>
     <string name="title_activity_preferences">Ajustes</string>
+    <string name="title_standby_strategy">Estrategia de espera</string>
+    <string name="strategy_standby_with_force_stop">En espera, luego forzar detención</string>
+    <string name="strategy_standby_only">Solo en espera, sin forzar detención</string>
+    <string name="strategy_force_stop_only">Sólo forzar detención, sin espera</string>
+    <string name="title_strategy_bucket">Cubo de estrategia</string>
+    <string name="strategy_bucket_frequent_with_rare">Frecuente con raro</string>
+    <string name="strategy_bucket_rare_only">Solo raro</string>
+    <string name="title_prevent_chain_launch">Prevenir lanzamiento de cadena</string>
+    <string name="summary_prevent_chain_launch">Evitar ser despertado por otras aplicaciones</string>
     <string name="title_intro_1">Bienvenido a Aegis</string>
     <string name="description_intro_1">Aegis puede limitar el comportamiento de las aplicaciones y mejorar la vida de la batería de su dispositivo.</string>
+    <string name="title_intro_2">Ajustando el cubo standby de la aplicación</string>
     <string name="description_intro_2">Aegis limitará el comportamiento en las aplicaciones de cada grupo de maneras específicas. Puede establecer grupos de espera para aplicaciones de acuerdo con sus propios hábitos de uso.</string>
 </resources>
