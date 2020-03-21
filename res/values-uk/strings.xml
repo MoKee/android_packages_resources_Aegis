@@ -16,9 +16,34 @@
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Егіда</string>
+    <string name="title_inactive_apps">Програми в режимі очікування</string>
     <string name="title_activity_guide">Посібник</string>
     <string name="menu_guide">Посібник</string>
     <string name="menu_preferences">Налаштування</string>
+    <string name="activity_not_found">MoKee Center не встановлений або був відключений</string>
+    <string name="title_inactive_app_dialog">Сортування неактивних додатків</string>
+    <string name="standby_bucket_exempted">Виняток</string>
+    <string name="standby_bucket_active">Активний</string>
+    <string name="standby_bucket_working_set">Робочий набір</string>
+    <string name="standby_bucket_frequent">Часто використовувані</string>
+    <string name="standby_bucket_rare">Рідкісний</string>
     <string name="standby_bucket_never">Ніколи</string>
+    <string name="standby_bucket_dynamic">Dynamically assigns</string>
+    <string name="standby_bucket_limit_title">Розблокувати повну версію</string>
+    <string name="standby_bucket_limit_summary">Non-donors можуть лише налаштувати програми %1$d, пожертвувати %2$d юанів, щоб розблокувати необмежену версію.</string>
     <string name="title_activity_preferences">Налаштування</string>
+    <string name="title_standby_strategy">Стратегія неактивних додатків</string>
+    <string name="strategy_standby_with_force_stop">Очікування, потім примусова зупинка</string>
+    <string name="strategy_standby_only">Тільки очікування, без примусової зупинки</string>
+    <string name="strategy_force_stop_only">Тільки примусова зупинка, без очікування</string>
+    <string name="title_strategy_bucket">Стратегія кошика</string>
+    <string name="strategy_bucket_frequent_with_rare">Часто використовувані з рідкісними</string>
+    <string name="strategy_bucket_rare_only">Тільки рідкісні</string>
+    <string name="title_prevent_chain_launch">Запобігти ланцюговий запуск</string>
+    <string name="summary_prevent_chain_launch">Уникати пробудження іншими додатками</string>
+    <string name="title_intro_1">Ласкаво просимо до Aegis</string>
+    <string name="description_intro_1">Aegis може обмежити поведінку додатків і поліпшити час автономної роботи вашого пристрою.</string>
+    <string name="title_intro_2">Setting app standby bucket</string>
+    <string name="description_intro_2">Aegis буде обмежувати поведінку додатків кожної групи певними способами. Ви можете налаштувати групи очікування для додатків відповідно до ваших власних звичок використання.</string>
 </resources>
