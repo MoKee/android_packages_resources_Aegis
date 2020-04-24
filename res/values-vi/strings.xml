@@ -16,9 +16,34 @@
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Quản lý</string>
+    <string name="title_inactive_apps">Ứng dụng chờ</string>
     <string name="title_activity_guide">Hướng dẫn</string>
     <string name="menu_guide">Hướng dẫn</string>
     <string name="menu_preferences">Tùy chỉnh</string>
+    <string name="activity_not_found">MoKeeCenter chưa được cài đặt hoặc đã bị vô hiệu hóa</string>
+    <string name="title_inactive_app_dialog">Ứng dụng dự phòng</string>
+    <string name="standby_bucket_exempted">Miễn</string>
+    <string name="standby_bucket_active">Kích hoạt</string>
+    <string name="standby_bucket_working_set">Bộ làm việc</string>
+    <string name="standby_bucket_frequent">Thường xuyên</string>
+    <string name="standby_bucket_rare">Hiếm</string>
     <string name="standby_bucket_never">Không bao giờ</string>
+    <string name="standby_bucket_dynamic">Tự động gán</string>
+    <string name="standby_bucket_limit_title">Mở khóa phiên bản không giới hạn</string>
+    <string name="standby_bucket_limit_summary">Những người không phải là nhà tài trợ chỉ có thể thiết lập ứng dụng %1$d, tặng %2$d CNY để mở khóa phiên bản không giới hạn.</string>
     <string name="title_activity_preferences">Tùy chỉnh</string>
+    <string name="title_standby_strategy">Chiến lược chờ</string>
+    <string name="strategy_standby_with_force_stop">Chờ, sau đó dừng lại</string>
+    <string name="strategy_standby_only">Chỉ chờ, không dừng lại</string>
+    <string name="strategy_force_stop_only">Chỉ dừng, không có chế độ chờ</string>
+    <string name="title_strategy_bucket">Chiến lược xô</string>
+    <string name="strategy_bucket_frequent_with_rare">Tần suất thấp</string>
+    <string name="strategy_bucket_rare_only">Chỉ hiếm khi</string>
+    <string name="title_prevent_chain_launch">Ngăn chặn ra mắt chuỗi</string>
+    <string name="summary_prevent_chain_launch">Tránh bị đánh thức bởi các ứng dụng khác</string>
+    <string name="title_intro_1">Chào mừng đến với Aegis</string>
+    <string name="description_intro_1">Aegis có thể hạn chế hành vi của ứng dụng và cải thiện thời lượng pin cho thiết bị của bạn.</string>
+    <string name="title_intro_2">Cài đặt thùng chờ ứng dụng</string>
+    <string name="description_intro_2">Aegis sẽ hạn chế hành vi trên các ứng dụng của từng nhóm theo những cách cụ thể. Bạn có thể đặt các nhóm dự phòng cho các ứng dụng theo thói quen sử dụng của riêng bạn.</string>
 </resources>
