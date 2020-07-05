@@ -16,5 +16,9 @@
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="title_activity_guide">கையேடு</string>
+    <string name="menu_guide">கையேடு</string>
+    <string name="menu_preferences">விருப்பங்கள்</string>
     <string name="standby_bucket_never">ஒருபோதுமில்லை</string>
+    <string name="title_activity_preferences">விருப்பங்கள்</string>
 </resources>

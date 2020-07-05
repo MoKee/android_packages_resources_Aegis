@@ -16,9 +16,29 @@
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Aegis</string>
+    <string name="title_inactive_apps">Aplicações inativas</string>
     <string name="title_activity_guide">Guia</string>
     <string name="menu_guide">Guia</string>
     <string name="menu_preferences">Preferências</string>
+    <string name="activity_not_found">A Central MoKee não está instalada ou foi desativada</string>
+    <string name="title_inactive_app_dialog">Caixote de aplicações inativas</string>
+    <string name="standby_bucket_exempted">Excluídas</string>
+    <string name="standby_bucket_active">Ativas</string>
+    <string name="standby_bucket_working_set">Em execução</string>
+    <string name="standby_bucket_frequent">Frequentes</string>
+    <string name="standby_bucket_rare">Raramente utilizadas</string>
     <string name="standby_bucket_never">Nunca</string>
+    <string name="standby_bucket_dynamic">Atribuir dinamicamente</string>
+    <string name="standby_bucket_limit_title">Desbloquear versão ilimitada</string>
+    <string name="standby_bucket_limit_summary">Não-doadores podem definir apenas %1$d aplicações. Doe %2$d CNY para desbloquear a versão ilimitada.</string>
     <string name="title_activity_preferences">Preferências</string>
+    <string name="title_standby_strategy">Estratégia de inatividade</string>
+    <string name="strategy_standby_with_force_stop">Inativar e forçar encerramento</string>
+    <string name="strategy_standby_only">Apenas inativar e não forçar encerramento</string>
+    <string name="strategy_force_stop_only">Apenas forçar encerramento e não inativar</string>
+    <string name="title_strategy_bucket">Estratégia do caixote</string>
+    <string name="strategy_bucket_frequent_with_rare">Frequentes com raramente utilizadas</string>
+    <string name="strategy_bucket_rare_only">Apenas raramente utilizadas</string>
+    <string name="title_intro_2">Configurar o caixote de aplicações inativas</string>
 </resources>
