@@ -16,11 +16,12 @@
      along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Aegis</string>
     <string name="title_activity_guide">Panduan</string>
     <string name="menu_guide">Panduan</string>
     <string name="menu_preferences">Preferensi</string>
     <string name="activity_not_found">MoKeeCenter tidak diinstal atau telah dinonaktifkan</string>
+    <string name="standby_bucket_active">Aktif</string>
+    <string name="standby_bucket_working_set">Aturan kerja</string>
     <string name="standby_bucket_frequent">Sering</string>
     <string name="standby_bucket_rare">Jarang</string>
     <string name="standby_bucket_never">Jangan pernah</string>

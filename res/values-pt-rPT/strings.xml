@@ -40,5 +40,10 @@
     <string name="title_strategy_bucket">Estratégia do caixote</string>
     <string name="strategy_bucket_frequent_with_rare">Frequentes com raramente utilizadas</string>
     <string name="strategy_bucket_rare_only">Apenas raramente utilizadas</string>
+    <string name="title_prevent_chain_launch">Prevenir lançamento em cadeia</string>
+    <string name="summary_prevent_chain_launch">Evite ser despertado por outras apps</string>
+    <string name="title_intro_1">Bem-vindo ao Aegis</string>
+    <string name="description_intro_1">Aegis é capaz de limitar o comportamento das aplicações e melhorar a vida útil da bateria do seu dispositivo.</string>
     <string name="title_intro_2">Configurar o caixote de aplicações inativas</string>
+    <string name="description_intro_2">Aegis limitará o comportamento das aplicações de cada grupo de formas específicas. Pode definir grupos de inatividade para aplicações de acordo com os seus hábitos de uso.</string>
 </resources>
