@@ -28,7 +28,7 @@
     <string name="standby_bucket_working_set">频繁使用</string>
     <string name="standby_bucket_frequent">定期使用</string>
     <string name="standby_bucket_rare">极少使用</string>
-    <string name="standby_bucket_never">从未使用</string>
+    <string name="standby_bucket_never">永不</string>
     <string name="standby_bucket_dynamic">动态分配</string>
     <string name="standby_bucket_limit_title">解锁高级版</string>
     <string name="standby_bucket_limit_summary">未捐赠用户仅能设置 %1$d 个应用，捐赠 %2$d CNY 解锁高级版。</string>
